@@ -1,1 +1,2 @@
 # Localization
+In diesem Projekt habe ich die Position eines simulierten Autos mithilfe von Lidar entweder mit ICP oder NDT, zwei Scan-Matching-Algorithmen, wiederhergestellt und Punktwolken-Scans vom CARLA-Simulator ausgerichtet. Ich habe eine ausreichende Genauigkeit für die gesamte Fahrt innerhalb der simulierten Umgebung erreicht und den Standort des Fahrzeugs entsprechend aktualisiert, während es sich bewegt und neue LIDAR-Daten erhält.
